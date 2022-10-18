@@ -1,4 +1,8 @@
 # Contributor Covenant Code of Conduct
+## Our Motive
+
+To promote open source contribution and to see and improve codes and documentations.
+
 
 ## Our Pledge
 
